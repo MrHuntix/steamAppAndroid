@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SteamApp</string>
+    <string name="description">ABOUT THIS GAME</string>
+    <string name="languages">LANGUAGES SUPPORTED</string>
+    <string name="others">ADDITIONAL INFORMATION</string>
+    <string name="menulogout">HOME</string>
+    <string name="online">PLAYERS ONLINE</string>
+    <string name="logout">LOGOUT</string>
+    <string name="facebook_app_id">521884098207264</string>
+    <string name="fb_login_protocol_scheme">fb521884098207264</string>
+    <string name="store">STORE</string>
+</resources>

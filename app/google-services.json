@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "812163455118",
+    "firebase_url": "https://steamapp-b0ef3.firebaseio.com",
+    "project_id": "steamapp-b0ef3",
+    "storage_bucket": "steamapp-b0ef3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812163455118:android:e6ea7f81c56f3155",
+        "android_client_info": {
+          "package_name": "com.example.puneeth.steamapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "812163455118-bi8uc3jkipa78ju5ppmuo3o11kvris8a.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "812163455118-rr6tiv71rofgfco5ilf7b1navsapt4ff.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.puneeth.steamapp",
+            "certificate_hash": "ddf86ed958cb70dfab894a7167b3bc331568e5c9"
+          }
+        },
+        {
+          "client_id": "812163455118-bi8uc3jkipa78ju5ppmuo3o11kvris8a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmJUgRg6bYSp-kn_rB8JsPw_P-kBzL3KE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "812163455118-bi8uc3jkipa78ju5ppmuo3o11kvris8a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
